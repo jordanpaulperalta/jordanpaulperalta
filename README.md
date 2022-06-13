@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jordanpaulperalta
+- 👋🏽 Hi, I’m @jordanpaulperalta
 - 👀 I’m interested in programming/codings
 - 👨🏽‍💻 I’m currently learning and pursuing iOS Development
 - 👥 I’m looking to collaborate on mobile apps
