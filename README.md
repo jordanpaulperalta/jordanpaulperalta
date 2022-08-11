@@ -1,7 +1,7 @@
 - 👋🏽 Hi, I’m @jordanpaulperalta
 - 👀 I’m interested in programming/codings and cars too
-- 👨🏽‍💻 I’m currently learning and pursuing iOS Development
-- 👥 I’m looking for a entry-level job on making mobile apps
+- 👨🏽‍💻 I’m currently pursuing iOS and Android Development
+- 👥 I’m seeking an internship (paid/unpaid) to gain skills to become a junior mobile app developer.
 - 📧 How to reach me thru email at jordanpaulperalta@yahoo.com
 <!---
 jordanpaulperalta/jordanpaulperalta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
